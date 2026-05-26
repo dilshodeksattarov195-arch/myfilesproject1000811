@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpecrypt",
+        "uuid": 1431415,
+        "checksum": "nkz7v2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
